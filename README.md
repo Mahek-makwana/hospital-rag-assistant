@@ -28,10 +28,12 @@ This project showcases mastery in the following high-demand areas for AI and Mac
 - **Python 3.10** or higher
 - **Ollama** (installed and running)
 
+
 ### 2. Clone the Repository
 ```bash
 git clone [https://github.com/Mahek-makwana/hospital-rag-assistant.git](https://github.com/Mahek-makwana/hospital-rag-assistant.git)
-cd hospital-rag-assistant
+
+---
 3. Setup Virtual Environment
 Bash
 
