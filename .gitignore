@@ -1,0 +1,25 @@
+chroma_store
+my_local_db
+*.pdf
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distributions and packaging
+.Python
+build/
+dist/
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+.env
