@@ -1,2 +1,5 @@
-chromadb
-openai
+# to update, run: pipreqs . --force 
+chromadb==1.4.1
+langchain_text_splitters==1.1.0
+openai==2.16.0
+pdfplumber==0.11.9
